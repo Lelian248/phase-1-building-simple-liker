@@ -33,13 +33,7 @@ function handleLike(e){
        console.error(error);
        console.log("error") 
     })
-    // e.preventdefault()
-    // console.log(e.target.value)
-    // console.log("hi")
 }
-
-
-
 
 
 //------------------------------------------------------------------------------
